@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 2. **Kloning repositori:**  
    **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
    cd GeminiAi
    ```
 
@@ -62,7 +62,7 @@ Before you begin, ensure you have the following:
 2. **Kloning repositori:**  
    **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
    cd GeminiAi
    ```
 
