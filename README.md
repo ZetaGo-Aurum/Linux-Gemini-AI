@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
    **Clone the repository:**
    ```bash
    git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
-   cd GeminiAi
+   cd GeminiAI
    ```
 
 3. **Instal dependensi:**  
@@ -63,7 +63,7 @@ Before you begin, ensure you have the following:
    **Clone the repository:**
    ```bash
    git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
-   cd GeminiAi
+   cd GeminiAI
    ```
 
 3. **Instal dependensi:**  
