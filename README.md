@@ -16,7 +16,7 @@ Before you begin, ensure you have the following:
    **Update packages and install Python and Git:**
    ```bash
    pkg update && pkg upgrade
-   pkg install python git
+   pkg install python3 git
    ```
 
 2. **Kloning repositori:**  
