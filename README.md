@@ -17,6 +17,7 @@ Before you begin, ensure you have the following:
    ```bash
    pkg update && pkg upgrade
    pkg install python3 git
+   pip install python-dotenv rich Pillow requests
    ```
 
 2. **Kloning repositori:**  
@@ -58,6 +59,7 @@ Before you begin, ensure you have the following:
    ```bash
    sudo apt update && sudo apt upgrade
    sudo apt install python3 python3-pip git
+   pip install python-dotenv rich Pillow requests
    ```
 
 2. **Kloning repositori:**  
