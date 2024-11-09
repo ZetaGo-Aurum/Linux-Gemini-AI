@@ -23,6 +23,7 @@ Before you begin, ensure you have the following:
    **Clone the repository:**
    ```bash
    git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
+   cd Linux-Gemini-AI
    cd GeminiAI
    ```
 
@@ -63,6 +64,7 @@ Before you begin, ensure you have the following:
    **Clone the repository:**
    ```bash
    git clone https://github.com/ZetaGo-Aurum/Linux-Gemini-AI.git
+   cd Linux-Gemini-AI
    cd GeminiAI
    ```
 
